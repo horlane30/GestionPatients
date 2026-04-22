@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1775689894 source:c:\users\hp\desktop\gestion_patient\main.c
+	<stdio.h>
+	"notification.h"
+	"messagerie.h"
+
+1775689974 c:\users\hp\desktop\gestion_patient\notification.h
+
+1775689970 c:\users\hp\desktop\gestion_patient\messagerie.h
+
+1775689892 source:c:\users\hp\desktop\gestion_patient\messagerie.c
+	<stdio.h>
+	<string.h>
+	"messagerie.h"
+	"notification.h"
+
